@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 4.0.0-beta.1-282-g7bc8' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "case3_rgt.png"; bbox 0 0 1851 1545; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 0 1821 1512">
+    <p class='ocr_par' id='par_1_1' lang='kor' title="bbox 40 0 1821 1512">
+     <span class='ocr_line' id='line_1_1' title="bbox 40 0 902 97; baseline -0.028 -3; x_size 123.50319; x_descenders 29; x_ascenders 20.503185"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1851 1545; x_wconf 44'>제품명</span> <span class='ocrx_word' id='word_1_2' title='bbox 0 0 1851 1545; x_wconf 60'>__</span> <span class='ocrx_word' id='word_1_3' title='bbox 40 0 902 97; x_wconf 35'>가나다</span> <span class='ocrx_word' id='word_1_4' title='bbox 0 0 1851 1545; x_wconf 80'>오렌지</span> <span class='ocrx_word' id='word_1_5' title='bbox 0 0 1851 1545; x_wconf 0'>즘</span>
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 48 1442 1385 1512; baseline -0.002 -4; x_size 77.592361; x_descenders 11.592358; x_ascenders 14"><span class='ocrx_word' id='word_1_202' title='bbox 48 1442 70 1460; x_wconf 54'>&quot;</span> <span class='ocrx_word' id='word_1_203' title='bbox 71 1446 139 1496; x_wconf 85'>부</span> <span class='ocrx_word' id='word_1_204' title='bbox 139 1447 205 1502; x_wconf 69'>정</span> <span class='ocrx_word' id='word_1_205' title='bbox 224 1472 233 1478; x_wconf 70'>ㆍ</span> <span class='ocrx_word' id='word_1_206' title='bbox 253 1449 402 1507; x_wconf 94'>불량</span> <span class='ocrx_word' id='word_1_207' title='bbox 423 1452 578 1509; x_wconf 93'>식품</span> <span class='ocrx_word' id='word_1_208' title='bbox 595 1453 672 1510; x_wconf 91'>신</span> <span class='ocrx_word' id='word_1_209' title='bbox 672 1454 834 1512; x_wconf 93'>고</span> <span class='ocrx_word' id='word_1_210' title='bbox 0 0 1851 1545; x_wconf 79'>는</span> <span class='ocrx_word' id='word_1_211' title='bbox 850 1454 1013 1512; x_wconf 92'>국</span> <span class='ocrx_word' id='word_1_212' title='bbox 0 0 1851 1545; x_wconf 91'>번</span> <span class='ocrx_word' id='word_1_213' title='bbox 1017 1454 1139 1512; x_wconf 92'>없</span> <span class='ocrx_word' id='word_1_214' title='bbox 1154 1454 1167 1512; x_wconf 96'>이</span> <span class='ocrx_word' id='word_1_215' title='bbox 1202 1453 1385 1507; x_wconf 94'>1399</span>
+     </span>
+    </p>
+   </div>
+ </body>
+</html>
